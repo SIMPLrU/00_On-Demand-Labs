@@ -1,5 +1,5 @@
 {
-    "pathwayTitle": "Jenkins",
+    "pathwayTitle": "CLOUDBEES",
     "title": "INSTALL JENKINS USING DOCKER v.0.9",
     "description": "In this Learning Lab, you install Jenkins using docker and load Blue Ocean. This environment is the first step in building your first pipeline using Blue Ocean",
     "difficulty": "Easy",
@@ -34,6 +34,7 @@
         "intro": {
             "text": "intro.md",
             "courseData": "courseBase.sh",
+            "code":"env-init.sh",
             "credits": ""
         },
         "finish": {
