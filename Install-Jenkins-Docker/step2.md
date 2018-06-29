@@ -1,7 +1,7 @@
 # Load Jenkins Dashboard
 > To ensure Jenkins is securely set up by the administrator, a password has been written to the log and this file on the server: `/var/jenkins_home/secrets/initialAdminPassword`
 
-> The username is `admin` with the password the default `<adminpassword>`
+> The username is `admin`{{copy}} with the password the default `<adminpassword>`
 
 > ## Discover adminpassword 
 On this environment, the password can be found via 

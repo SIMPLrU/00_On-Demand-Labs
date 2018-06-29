@@ -1,3 +1,8 @@
-This scenario took a new Jenkins build and configured it to build Docker Images. We then look an example HTTP server and created a build for it.
+# CONGRATULATION 
+You have completed the following High Level Task: 
+1. Install Jenkins Docker Container
+2. Load and Launch Dashboard
+3. Install Plugins and Dependencies
+4. Load and Launched Blue Ocean
 
-Learn how to launch a Private Docker Registry with our [scenario](https://www.katacoda.com/courses/docker-production/launch-private-registry).
+You are now ready to create your first **Pipeline** using **Blue Ocean**
