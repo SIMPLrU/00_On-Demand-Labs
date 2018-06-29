@@ -12,6 +12,7 @@
             },
             {
                 "title": "Load and Launch Dashboard",
+                "code": "env-init.sh",
                 "text": "step2.md"
             },
             {
@@ -42,7 +43,7 @@
     },
     "environment": {
         "showdashboard": true,
-        "dashboard": "Dashboard",
+        "dashboard": "Jenkins GUI",
         "uilayout": "terminal-iframe",
         "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
     },
