@@ -1,7 +1,7 @@
 {
     "pathwayTitle": "CLOUDBEES",
     "title": "MULTI-ENVIRONMENT PIPELINE v.0.5",
-    "description": "In this Learning Lab, you will create a simple pipeline with parallel stages",
+    "description": "In this Learning Lab, you will work with a muli-environment Pipeline",
     "difficulty": "Intermediate",
     "time": "15-30 minutes",
     "details": {
