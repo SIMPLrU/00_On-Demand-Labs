@@ -3,7 +3,7 @@
     "title": "MULTI-ENVIRONMENT PIPELINE v.0.5",
     "description": "In this Learning Lab, you will work with a muli-environment Pipeline",
     "difficulty": "Intermediate",
-    "time": "15-30 minutes",
+    "time": "15-20 minutes",
     "details": {
         "steps": [
             {
@@ -45,7 +45,7 @@
              {
                 "title": "CONGRATULATIONS",
                 "text": "step10.md"
-            },
+            }
 
         ],
         "intro": {
