@@ -1,4 +1,4 @@
-Use Kong and verify it is running:
+# Use Kong and verify it is running:
 
 `
 curl -i http://docker:8001/
@@ -9,8 +9,15 @@ curl -i http://docker:8001/
 
 Access the Kong container bash
 
-`docker exec -ti b25bdb809a8b /bin/sh~{{execute}}
+Obtain Kong Container ID
+`docker ps`{{execute}}
 
+
+Run Docker bash command to access bash. 
+`docker exec -ti <CONTAINER ID OR NAME> /bin/sh`{{execute}}
+
+
+# RUN SOME KONG COMMANDS
 Run a Kong Version 
 `kong version`{{execute}}
 
