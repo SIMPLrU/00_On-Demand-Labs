@@ -1,0 +1,53 @@
+{
+    "pathwayTitle": "CLOUDBEES",
+    "title": "CREATE AND EDIT AN EXAMPLE PIPELINE WITH PARALLEL STAGES v.0.5",
+    "description": "In this Learning Lab, you will create a simple pipeline with parallel stages",
+    "difficulty": "Easy",
+    "time": "10-15 minutes",
+    "details": {
+        "steps": [
+            {
+                "title": "Create and run a Pipeline in a feature branch",
+                "text": "step1.md"
+            },
+            {
+                "title": "Add artifact and test result publishing to a Pipeline",
+                "text": "step2.md"
+            },
+            {
+                "title": "Add parallel stages to a Pipeline",
+                "text": "step3.md"
+            },
+            {
+                "title": "Save a Pipeline to the master branch",
+                "text": "step4.md"
+            },
+            {
+                "title": "Solution",
+                "text": "step5.md"
+            },
+            {
+                "title": "CONGRATULATIONS",
+                "text": "step6.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md",
+            "courseData": "courseBase.sh",
+            "credits": ""
+        },
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "environment": {
+        "showdashboard": true,
+        "dashboard": "Dashboard",
+        "uilayout": "terminal-iframe",
+        "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+    },
+    "backend": {
+        "imageid": "jenkins",
+        "port": 8080
+    }
+}

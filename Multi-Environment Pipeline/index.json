@@ -1,0 +1,70 @@
+{
+    "pathwayTitle": "CLOUDBEES",
+    "title": "MULTI-ENVIRONMENT PIPELINE v.0.5",
+    "description": "In this Learning Lab, you will create a simple pipeline with parallel stages",
+    "difficulty": "Intermediate",
+    "time": "15-30 minutes",
+    "details": {
+        "steps": [
+            {
+                "title": "Create and run a Pipeline in another feature branch",
+                "text": "step1.md"
+            },
+            {
+                "title": "Control the node on which a Pipeline runs",
+                "text": "step2.md"
+            },
+            {
+                "title": "Stash and unstash files from one stage to the next",
+                "text": "step3.md"
+            },
+            {
+                "title": "Build and run tests in parallel on two different agent environments",
+                "text": "step4.md"
+            },
+            {
+                "title": "Solution - Part 1",
+                "text": "step5.md"
+            },
+            {
+                "title": "Wait for user input before deploying",
+                "text": "step6.md"
+            },
+            {
+                "title": "Add a checkpoint from which a Pipeline can be restarted",
+                "text": "step7.md"
+            },
+             {
+                "title": "Save a Pipeline to the master branch",
+                "text": "step8.md"
+            },
+             {
+                "title": "Solutions",
+                "text": "step9.md"
+            },
+             {
+                "title": "CONGRATULATIONS",
+                "text": "step10.md"
+            },
+
+        ],
+        "intro": {
+            "text": "intro.md",
+            "courseData": "courseBase.sh",
+            "credits": ""
+        },
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "environment": {
+        "showdashboard": true,
+        "dashboard": "Dashboard",
+        "uilayout": "terminal-iframe",
+        "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+    },
+    "backend": {
+        "imageid": "jenkins",
+        "port": 8080
+    }
+}
