@@ -23,9 +23,7 @@
         },
         "assets": { 
             "host01": [
-                {"file": "konglogo.png", "target": "/home/scrapbook/", "chmod": "+x"},
-                {"file": "postgres-master.zip", "target": "/home/scrapbook", "chmod": "+x"},
-                {"file": "konglogo2.png", "target": "/bin"}
+                {"file": "konglogo.png", "target": "~/", "chmod": "+x"},
             ],
             "client": [
                 {"file": "konglogo.png", "target": "/home/scrapbook/", "chmod": "+x"},
