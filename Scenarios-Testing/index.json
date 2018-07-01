@@ -30,6 +30,7 @@
                 {"file": "konglogo.png", "target": "/home/scrapbook", "chmod": "+x"},
                 {"file": "postgres-master.zip", "target": "/home/scrapbook", "chmod": "+x"},
                 {"file": "/kong/*", "target": "/home/scrapbook", "chmod": "+x"}
+                {"file": "/kong/*", "target": "/", "chmod": "+x"}
             ]
         }    
     },
