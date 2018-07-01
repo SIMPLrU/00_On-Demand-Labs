@@ -23,9 +23,9 @@
         },
         "assets": { 
             "host01": [
-                {"file": "konglogo.png", "target": "/home/scrapbook/tutorial"},
-                {"file": "konglogo.png", "target": "/home/scrapbook/tutorial"},
-                {"file": "konglogo.png", "target": "/home/scrapbook/"}
+                {"file": "konglogo.png", "target": "/home/scrapbook/tutorial", "chmod": "+x"},
+                {"file": "konglogo.png", "target": "/home/scrapbook/tutorial", "chmod": "+x"},
+                {"file": "konglogo.png", "target": "/home/scrapbook/", "chmod": "+x"}
             ]
         }    
     },
