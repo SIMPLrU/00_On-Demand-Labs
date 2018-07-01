@@ -21,14 +21,19 @@
         "finish": {
             "text": "finish.md"
         },
-        "assets": {
+        "assets": { 
             "host01": [
                 {"file": "konglogo.png", 
-                "target": "/root"},
-                
+                "target": "/home/scrapbook/", "chmod": "+x"}
+                {"file": "konglogo2.png",
+                "target": "/bin"}
+            ],
+            "client": [
                 {"file": "konglogo.png", 
-                "target": "/root"}
-            ]
+                "target": "/home/scrapbook/", "chmod": "+x"}
+                {"file": "konglogo2.png",
+                "target": "/bin"}
+            ]  
         }    
     },
     "environment": {
