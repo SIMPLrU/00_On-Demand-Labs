@@ -26,7 +26,8 @@
                 {"file": "konglogo.png", "target": "/home/scrapbook/", "chmod": "+x"}
             ],
             "client": [
-                {"file": "konglogo.png", "target": "/bin", "chmod": "+x"}            
+                {"file": "konglogo.png", "target": "/bin", "chmod": "+x"},
+                {"file": "konglogo.png", "target": "/home/scrapbook", "chmod": "+x"}            
             ]
         }    
     },
