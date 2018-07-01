@@ -24,6 +24,9 @@
         "assets": { 
             "host01": [
                 {"file": "konglogo.png", "target": "/home/scrapbook/", "chmod": "+x"}
+            ],
+            "client": [
+                {"file": "konglogo.png", "target": "/home/scrapbook/", "chmod": "+x"}
             ]
         }    
     },
