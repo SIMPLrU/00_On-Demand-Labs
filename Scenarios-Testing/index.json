@@ -28,7 +28,7 @@
             "client": [
                 {"file": "konglogo.png", "target": "~/", "chmod": "+x"},
                 {"file": "postgres-master.zip", "target": "/home/scrapbook/", "chmod": "+x"},
-                {"file": "postgres-master", "target": "/home/scrapbook/", "chmod": "+x"},
+                {"file": "postgres-master", "target": "/home/scrapbook/", "chmod": "+x"}
             ]
         }    
     },
