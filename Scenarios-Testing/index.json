@@ -23,19 +23,16 @@
         },
         "assets": { 
             "host01": [
-                {"file": "konglogo.png", "target": "/root"},
-                {"file": "konglogo.png", "target": "/bin"},
-                {"file": "konglogo.png", "target": "/home"},
-                {"file": "konglogo.png", "target": "/home/kong"},
-                {"file": "konglogo.png", "target": "/tmp"},
-                {"file": "konglogo.png", "target": "/etc"}
+                {"file": "konglogo.png", "target": "/home/scrapbook/tutorial"},
+                {"file": "konglogo.png", "target": "/home/scrapbook/tutorial"},
+                {"file": "konglogo.png", "target": "/home/scrapbook/"}
             ]
         }    
     },
     "environment": {
         "showdashboard": true,
         "dashboard": "Kong GUI",
-        "uilayout": "terminal-iframe",
+        "uilayout": "terminal-iframel",
         "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
     },
     "backend": {
