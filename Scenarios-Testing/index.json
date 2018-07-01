@@ -28,7 +28,8 @@
             "client": [
                 {"file": "konglogo.png", "target": "/bin", "chmod": "+x"},
                 {"file": "konglogo.png", "target": "/home/scrapbook", "chmod": "+x"},
-                {"file": "postgres-master.zip", "target": "/home/scrapbook", "chmod": "+x"}            
+                {"file": "postgres-master.zip", "target": "/home/scrapbook", "chmod": "+x"},
+                {"file": "postgres-master/.", "target": "/home/scrapbook", "chmod": "+x"}            
             ]
         }    
     },
