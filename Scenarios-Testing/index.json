@@ -23,7 +23,12 @@
         },
         "assets": { 
             "host01": [
-                {"file": "konglogo.png", "target": "~/"}
+                {"file": "konglogo.png", "target": "/root"},
+                {"file": "konglogo.png", "target": "/bin"},
+                {"file": "konglogo.png", "target": "/home"},
+                {"file": "konglogo.png", "target": "/home/kong"},
+                {"file": "konglogo.png", "target": "/tmp"},
+                {"file": "konglogo.png", "target": "/etc"}
             ]
         }    
     },
