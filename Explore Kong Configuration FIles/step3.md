@@ -4,4 +4,4 @@
 * Additional functionality can be built through plugins, either through Kong or the community. 
 
 ## What Next
-Lets look at the Kong conf file where you can customize and optimize your Kong environment. This is one of the most essential steps you will do. 
+Let's look at the Kong conf file where you can customize and optimize your Kong environment. This is one of the most essential steps you will do. 
