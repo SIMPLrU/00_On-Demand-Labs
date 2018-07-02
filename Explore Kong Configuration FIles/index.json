@@ -11,8 +11,8 @@
             { "title": "Explore Nginx-Kong.Conf", "text": "step2.md" },
             { "title": "Summary", "text": "step3.md" },
             { "title": "XXX", "text": "step4.md" },
-            { "title": "XXX", "text": "step5.md"},
-            { "title": "XXXX", "text": "step6.md"}
+            { "title": "XXX", "text": "step5.md" },
+            { "title": "XXXX", "text": "step6.md" }
         ],
         "intro": {
             "text": "intro.md",
