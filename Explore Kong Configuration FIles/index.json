@@ -6,6 +6,7 @@
     "time": "10-15 minutes",
     "details": {
         "steps": [
+            { "title": "Loading Configurations", "text": "step_preload.md" },
             { "title": "Explore Nginx.Conf file", "text": "step1.md" },
             { "title": "Explore Nginx-Kong.Conf", "text": "step2.md" },
             { "title": "Summary", "text": "step3.md" },

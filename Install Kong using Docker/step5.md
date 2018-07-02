@@ -14,7 +14,7 @@ Obtain Kong Container ID
 
 
 Run Docker bash command to access bash. 
-`docker exec -ti <CONTAINER ID OR NAME> /bin/sh`{{execute}}
+`docker exec -ti kong /bin/sh`{{execute}}
 
 
 # RUN SOME KONG COMMANDS
