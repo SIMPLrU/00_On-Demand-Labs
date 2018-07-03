@@ -8,8 +8,8 @@
         "steps": [
             { "title": "Loading Configurations", "text": "preload.md" },
             { "title": "Explore Nginx.Conf file", "text": "step1.md" },
-            { "title": "Explore Nginx-Kong.Conf", "text": "step2.md" },
-            { "title": "Summary", "text": "step3.md" },
+            { "title": "Explore Nginx-Kong.Conf", "text": "step2.md" },     
+            { "title": "Summary", "code": "env-init.sh", "text": "step3.md" },
             { "title": "XXX", "text": "step4.md" },
             { "title": "XXX", "text": "step5.md" },
             { "title": "XXXX", "text": "step6.md" }
@@ -17,7 +17,8 @@
         "intro": {
             "text": "intro.md",
             "courseData": "courseBase.sh",
-            "credits": ""
+            "code": "env-init.sh",
+            "credits": "This lab was produced in partnership with SIMPLrU"
         },
         "finish": {
             "text": "finish.md"

@@ -1,4 +1,3 @@
-# **Explore Nginx-Kong.Conf** 
 **Location:/usr/local/kong** <br>
 To view the **Nginx-Kong.conf** file, navigate to the Kong folder. <br>
 **Note** If you are using a container, make sure you have SSH or shell access to Kong
